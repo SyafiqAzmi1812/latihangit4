@@ -1,1 +1,6 @@
 Resolusi 2025 - 2026
+
+- Bisa HTML
+- Bisa PHP
+- Bisa CSS
+- Bisa Java Script
